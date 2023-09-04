@@ -1,0 +1,44 @@
+
+* 
+{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+.icn-rem:hover{
+    color: red;
+    cursor: pointer;
+}
+
+body
+{
+
+    background-image: linear-gradient(to right, #616366, #6d7376, #7a8483, #8a948e, #9fa399);
+    background-size: 100%;
+}
+
+.main-card
+{
+    background-color: rgba(255, 255, 255, 0.93);
+    margin-top : 50px;
+    padding : 20px;
+
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px  rgba(94, 88, 88, 0.8);
+}
+
+.input-box:focus
+{
+    border-color: rgb(25, 135, 84);
+    box-shadow: 0 0 5px rgb(25, 135, 84);
+    
+}
+
+input[type="checkbox"] 
+{
+    width : 40px;
+    height: 20px;
+    margin-top: 6px;
+    accent-color: rgb(25, 135, 84); 
+}
