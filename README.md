@@ -15,25 +15,19 @@ The application is built with Node.js for the backend and utilizes HTML, CSS, an
 
 ## Technologies Used
 
-<p align="center">
-  <img src="nodejs-logo.png" alt="Node.js Logo" width="100">
-  <img src="html-logo.png" alt="HTML Logo" width="100">
-  <img src="css-logo.png" alt="CSS Logo" width="100">
-  <img src="ajax-logo.png" alt="AJAX Logo" width="100">
-</p>
 
-- **Node.js**: Powers the backend, enabling a robust API.
-- **HTML**: Defines the web page structure.
-- **CSS**: Styles the user interface beautifully.
-- **AJAX**: Makes asynchronous requests for smooth user interactions.
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+
+
+- **Node.js**: Powers the backend, enabling a robust API.  
+- **HTML**: Defines the web page structure. 
+- **CSS**: Styles the user interface beautifully. 
+- **AJAX**: Makes asynchronous requests for smooth user interactions.  
 
 ## Tools Used
 
-<p align="center">
-  <img src="postman-logo.png" alt="Postman Logo" width="100">
-  <img src="xampp-logo.png" alt="XAMPP Logo" width="100">
-  <img src="vscode-logo.png" alt="VSCode Logo" width="100">
-</p>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - **Postman**: Used for testing and debugging API endpoints.
 - **XAMPP**: Provides a local development environment for testing.
