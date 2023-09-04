@@ -56,23 +56,19 @@ Make sure you have the following software and tools installed on your system:
    git clone https://github.com/your-username/your-todo-app.git
    
 
- 2. **Clone the Repository:**
-
-     ```shell
-     git clone https://github.com/RupertC07/TODO-LIST-APP.git)https://github.com/RupertC07/TODO-LIST-APP.git
      
-3. **Navigate to the Project Directory:**
+2. **Navigate to the Project Directory:**
      ```shell
        cd TODO-LIST-APP
-4. **Install Dependencies**
+3. **Install Dependencies**
      ```shell
        npm install
 
-5. **Start Application**
+4. **Start Application**
      ```shell
        npm start
 
-6. Mae sure to import the sql file
+5. Mae sure to import the sql file
 
 ### Usage
 
